@@ -13,3 +13,5 @@ Write a valid HTML + JavaScript Page that will count numbers from 1 to 1,000.
 3. **Bonus:** Underline every Prime number in this series.
 
 ### Project Live Preview
+
+[Click Me to See DEMO.](https://mrnati.github.io/numbers/)
